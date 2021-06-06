@@ -1,0 +1,135 @@
+{
+  "book": [
+    {
+      "id": 1,
+      "title": "Fulano de Tal: A revolda dos que não foram",
+      "author": "Fulaninho",
+      "genre": "Comédia",
+      "yearPublished": 2020,
+      "quantity": 5
+    },
+    {
+      "id": 2,
+      "title": "Fulano de Tal: A revolda dos que não foram",
+      "author": "Fulaninho",
+      "genre": "Comédia",
+      "yearPublished": 2020,
+      "quantity": 5
+    },
+    {
+      "id": 3,
+      "title": "Fulano de Tal: A revolda dos que não foram",
+      "author": "Fulaninho",
+      "genre": "Comédia",
+      "yearPublished": 2020,
+      "quantity": 5
+    },
+    {
+      "id": 4,
+      "title": "Fulano de Tal: A revolda dos que não foram",
+      "author": "Fulaninho",
+      "genre": "Comédia",
+      "yearPublished": 2020,
+      "quantity": 5
+    },
+    {
+      "id": 5,
+      "title": "Fulano de Tal: A revolda dos que não foram",
+      "author": "Fulaninho",
+      "genre": "Comédia",
+      "yearPublished": 2020,
+      "quantity": 15
+    },
+    {
+      "id": 6,
+      "title": "Fulano de Tal: A revolda dos que não foram",
+      "author": "Fulaninho",
+      "genre": "Comédia",
+      "yearPublished": 2020,
+      "quantity": 5
+    },
+    {
+      "id": 7,
+      "title": "Fulano de Tal: A revolda dos que não foram",
+      "author": "Fulaninho",
+      "genre": "Comédia",
+      "yearPublished": 2020,
+      "quantity": 5
+    },
+    {
+      "id": 8,
+      "title": "Fulano de Tal: A revolda dos que não foram",
+      "author": "Fulaninho",
+      "genre": "Comédia",
+      "yearPublished": 2020,
+      "quantity": 5
+    },
+    {
+      "id": 9,
+      "title": "Fulano de Tal: A revolda dos que não foram",
+      "author": "Fulaninho",
+      "genre": "Comédia",
+      "yearPublished": 2020,
+      "quantity": 5
+    }
+  ],
+  "customer": [
+    {
+      "id": 1,
+      "email": "zepekeno@email.com.br",
+      "fullname": "Joaozinho do Paranaue",
+      "cpf": "555.555.555-55",
+      "birthDate": "1995-10-14"
+    },
+    {
+      "id": 2,
+      "email": "zepekeno@email.com.br",
+      "fullname": "Joaozinho do Paranaue",
+      "cpf": "555.555.555-55",
+      "birthDate": "1995-10-14"
+    },
+    {
+      "id": 3,
+      "email": "zepekeno@email.com.br",
+      "fullname": "Joaozinho do Paranaue",
+      "cpf": "555.555.555-55",
+      "birthDate": "1995-10-14"
+    },
+    {
+      "id": 4,
+      "email": "zepekeno@email.com.br",
+      "fullname": "Joaozinho do Paranaue",
+      "cpf": "555.555.555-55",
+      "birthDate": "1995-10-14"
+    },
+    {
+      "id": 5,
+      "email": "zepekeno@email.com.br",
+      "fullname": "Joaozinho do Paranaue",
+      "cpf": "555.222.555-55",
+      "birthDate": "1500-05-20"
+    },
+    {
+      "id": 6,
+      "email": "zepekeno@email.com.br",
+      "fullname": "Joaozinho do Paranaue",
+      "cpf": "555.555.555-55",
+      "birthDate": "1995-10-14"
+    },
+    {
+      "id": 7,
+      "email": "zepekeno@email.com.br",
+      "fullname": "Joaozinho do Paranaue",
+      "cpf": "555.555.555-55",
+      "birthDate": "1995-10-14"
+    },
+    {
+      "id": 8,
+      "email": "zepekeno@email.com.br",
+      "fullname": "Joaozinho do Paranaue",
+      "cpf": "555.555.555-55",
+      "birthDate": "1995-10-14"
+    }
+  ],
+  "loan": []
+}
